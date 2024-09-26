@@ -81,8 +81,7 @@ app.get('/about', (req, res) => {
   // JSON object containing personal information
   const aboutUsData = {
     name: 'Nathan Daniel', 
-    description: 'Hello, my name is Nathan and I am in my final year at New York University. I am from New Jersey, where I grew up in West Orange. I am currently studying Computer Science at CAS. I am also currently looking for intern positions where I can develop skills in programming. I have many hobbies, like playing the piano and the guitar. I also spend my free time playing volleyball and going to the gym.',
-    more_description: 'My Github username is WayyGood.  I am happy to help out friends with projects and meet new people. I love video games, particularly Minecraft and Valorant. My favorite genre of music is RnB. Thank you for reading!',
+    description: 'Hello, my name is Nathan and I am in my final year at New York University. I am from New Jersey, where I grew up in West Orange. I am currently studying Computer Science at CAS. I am also currently looking for intern positions where I can develop skills in programming. I have many hobbies, like playing the piano and the guitar. I also spend my free time playing volleyball and going to the gym. My Github username is WayyGood. I love video games, particularly Minecraft and Valorant. My favorite genre of music is RnB. Thank you for reading!',
     image: 'https://media.licdn.com/dms/image/v2/C5603AQG0eRqZLm0Lew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1654113883889?e=1732752000&v=beta&t=28XxkkZ_i-Lw36eqwfb26MLkvGPTSB8VIqeNvQo1g8g', // Replace with the actual URL of the photo
   };
 
